@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/verdiagm-website/static/css/main.ab23bd57.css",
+    "main.js": "/verdiagm-website/static/js/main.f97e2662.js",
+    "static/js/787.dfe38359.chunk.js": "/verdiagm-website/static/js/787.dfe38359.chunk.js",
+    "index.html": "/verdiagm-website/index.html",
+    "main.ab23bd57.css.map": "/verdiagm-website/static/css/main.ab23bd57.css.map",
+    "main.f97e2662.js.map": "/verdiagm-website/static/js/main.f97e2662.js.map",
+    "787.dfe38359.chunk.js.map": "/verdiagm-website/static/js/787.dfe38359.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab23bd57.css",
+    "static/js/main.f97e2662.js"
+  ]
+}
